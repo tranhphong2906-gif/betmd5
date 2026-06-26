@@ -1,9 +1,9 @@
 {
-  "name": "68md5",
+  "name": "betmd5",
   "version": "1.0.0",
-  "main": "68md5.js",
+  "main": "betmd5.js",
   "scripts": {
-    "start": "node 68md5.js"
+    "start": "node betmd5.js"
   },
   "dependencies": {
     "axios": "^1.11.0",
